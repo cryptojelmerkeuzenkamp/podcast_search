@@ -1,0 +1,5 @@
+.idea/
+LICENSE
+dist/
+pyproject.toml
+venv/
