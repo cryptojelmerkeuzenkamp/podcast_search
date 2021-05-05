@@ -1,4 +1,5 @@
-# ...
+from dataclasses import dataclass
+
 SEARCH_URL = "https://itunes.apple.com/search"
 
 @dataclass
